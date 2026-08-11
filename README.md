@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Computer+Science+Engineering+Student;Building+Real-World+Projects;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Computer+Science+Engineering+Student;Building+Real-World+Solutions;Always+Learning+%7C+Always+Building" />
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 ---
 
-# About Me
+# 👩‍💻 About Me
 
 <table>
 <tr>
@@ -40,21 +40,21 @@
 
 ### Hi, I'm Monika Dondeti
 
-I'm a **Computer Science Engineering student** passionate about building practical software solutions and exploring the possibilities of **Artificial Intelligence and Machine Learning**.
+I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, software development, and problem solving**.
 
-I enjoy working across the development stack, from designing interfaces to building backend services and experimenting with intelligent systems.
+I enjoy learning new technologies and turning ideas into practical, user-focused solutions.
 
-- Pursuing **B.Tech in Computer Science Engineering**
-- Interested in **AI, ML & Software Engineering**
-- Building projects in **Full Stack Development**
-- Practicing **Data Structures & Algorithms**
-- Exploring **Cloud Technologies**
-- Strong interest in solving real-world problems through technology
-- Aspiring to become an **AI Engineer**
+- 🎓 B.Tech Computer Science Engineering
+- 🤖 Interested in **AI, Machine Learning & Data Science**
+- 🌐 Exploring **Full Stack Development**
+- 🧩 Practicing **Data Structures & Algorithms**
+- ☁️ Exploring **Cloud Technologies**
+- 💻 Interested in building real-world applications
+- 🎯 Aspiring to become an **AI Engineer**
 
-### Current Goal
+### My Goal
 
-> Build strong engineering fundamentals, create meaningful projects, and grow into an AI-focused software engineer.
+> Build strong technical fundamentals, continuously learn new technologies, and create solutions that solve real-world problems.
 
 </td>
 
@@ -76,9 +76,9 @@ I enjoy working across the development stack, from designing interfaces to build
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -87,7 +87,7 @@ I enjoy working across the development stack, from designing interfaces to build
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -97,7 +97,7 @@ I enjoy working across the development stack, from designing interfaces to build
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -107,7 +107,7 @@ I enjoy working across the development stack, from designing interfaces to build
 <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge"/>
 </p>
 
-### Tools & Cloud
+### ☁️ Tools & Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -116,11 +116,12 @@ I enjoy working across the development stack, from designing interfaces to build
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# 🤖 AI / ML Expertise
 
 <table>
 <tr>
@@ -144,7 +145,7 @@ I enjoy working across the development stack, from designing interfaces to build
 <tr>
 <td><b>Computer Vision</b></td>
 <td>Image Processing</td>
-<td>CNN, OpenCV</td>
+<td>Python, OpenCV</td>
 </tr>
 
 <tr>
@@ -154,99 +155,27 @@ I enjoy working across the development stack, from designing interfaces to build
 </tr>
 
 <tr>
-<td><b>AI Applications</b></td>
-<td>Real-world Problem Solving</td>
-<td>Python, ML</td>
+<td><b>Data Analysis</b></td>
+<td>Data-driven Insights</td>
+<td>SQL, Excel, Power BI</td>
 </tr>
+
 </table>
 
 ---
 
-# Featured Projects
-
-<details>
-<summary><b>Advanced Fake News Detection System</b></summary>
-
-<br>
-
-**Machine Learning | Python | NLP | Streamlit**
-
-An AI/ML application designed to analyze news content and classify it as potentially real or fake.
-
-### Highlights
-
-- Text preprocessing and feature extraction
-- Machine learning based classification
-- Prediction workflow for news verification
-- Interactive web interface
-- Focus on real-world misinformation detection
-
-### Project Stack
-
-| Category | Technologies |
-|---|---|
-| Language | Python |
-| Domain | Machine Learning / NLP |
-| Interface | Streamlit |
-| Application | Fake News Classification |
-
-**Repository:**  
-[View Project on GitHub](https://github.com/Monikachowdary22)
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Personal Portfolio</b></summary>
-
-<br>
-
-**Web Development | JavaScript | Vercel**
-
-A personal developer portfolio showcasing my technical skills, projects and professional journey.
-
-### Highlights
-
-- Responsive portfolio website
-- Professional developer presentation
-- Project showcase
-- Skills and technology section
-- Deployed using Vercel
-
-### Live Website
-
-[Visit My Portfolio](https://monika-portfolio-hazel.vercel.app/)
-
-</details>
-
----
-
-# Experience
-
-## Full Stack Development Intern — SmartBridge
-
-**Software Development | Full Stack Development**
-
-- Worked on practical full-stack development concepts.
-- Gained hands-on exposure to frontend and backend technologies.
-- Worked with application development workflows and APIs.
-- Strengthened debugging and problem-solving skills.
-- Collaborated on technical tasks in an internship environment.
-
----
-
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### 🎓
 
-<b>Strong Academic Foundation</b>
+<b>Academic</b>
 
 B.Tech Computer Science Engineering
 
@@ -256,9 +185,9 @@ B.Tech Computer Science Engineering
 
 ### 💻
 
-<b>Project Development</b>
+<b>Technical</b>
 
-Built projects across AI/ML and Full Stack Development
+Hands-on experience across AI/ML & Full Stack technologies
 
 </td>
 
@@ -266,11 +195,12 @@ Built projects across AI/ML and Full Stack Development
 
 ### 🚀
 
-<b>Continuous Learning</b>
+<b>Growth</b>
 
-Actively exploring modern technologies
+Continuously learning and building technical skills
 
 </td>
+
 </tr>
 </table>
 
@@ -278,28 +208,31 @@ Actively exploring modern technologies
 
 ---
 
-# Certifications & Learning
+# 📜 Certifications & Learning
 
-<table>
-<tr>
-<td align="center">☁️<br><b>AWS</b></td>
-<td align="center">☕<br><b>Oracle</b></td>
-<td align="center">⚙️<br><b>ServiceNow</b></td>
-<td align="center">🤖<br><b>Google AI</b></td>
-</tr>
-</table>
+<div align="center">
 
-### Completed / Explored
+<img src="https://img.shields.io/badge/AWS-Viksha%20Program-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-- **Oracle Certified Foundations Associate**
-- **AWS Viksha Program**
-- **ServiceNow Administration Fundamentals**
-- **Google AI / AI Principles Learning**
-- **Google Cloud & Vertex AI learning activities**
+<img src="https://img.shields.io/badge/Oracle-Certified%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-Administration%20Fundamentals-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-AI%20Learning-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+<br>
+
+- ☁️ **AWS Viksha Program**
+- 🟠 **Oracle Certified Foundations Associate**
+- ⚙️ **ServiceNow Administration Fundamentals**
+- 🤖 **Google AI / AI Principles Learning**
+- ☁️ **Google Cloud & Vertex AI Learning Activities**
 
 ---
 
-# Coding Profile
+# 💻 Coding Profile
 
 <div align="center">
 
@@ -317,7 +250,7 @@ Actively exploring modern technologies
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -337,7 +270,7 @@ Actively exploring modern technologies
 
 ---
 
-# GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -347,7 +280,7 @@ Actively exploring modern technologies
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -357,7 +290,7 @@ Actively exploring modern technologies
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -367,10 +300,11 @@ Actively exploring modern technologies
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖 AI / ML
@@ -402,17 +336,61 @@ Improving problem-solving and algorithmic thinking.
 Learning cloud platforms and modern deployment workflows.
 
 </td>
+
 </tr>
 </table>
 
-### Currently Learning
+<br>
 
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Python
-Full Stack Development
-SQL
-Data Structures & Algorithms
-Cloud Technologies
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developing-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Exploring-5B21B6?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Monikachowdary22">
+<img src="https://img.shields.io/badge/GitHub-@Monikachowdary22-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/monikadondeti">
+<img src="https://img.shields.io/badge/LinkedIn-Monika%20Dondeti-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Dondeti_Monika/">
+<img src="https://img.shields.io/badge/LeetCode-Dondeti__Monika-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://monika-portfolio-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Let's Connect, Learn & Build Together
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Monikachowdary22&label=THANKS%20FOR%20VISITING&color=7C3AED&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=140&section=footer" width="100%"/>
+
+</div>
